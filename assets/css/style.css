@@ -1,4 +1,4 @@
-
+61
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -233,7 +233,7 @@ h6 {
   height: 100vh;
   background: url("../img/DSC_6184.JPG") center right;
   background-size: 80% ;
-  /* background-repeat: no-repeat; */
+  background-repeat: no-repeat;
 }
 
 #hero:before {
